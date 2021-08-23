@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+h2{
+    color: orange;
+}
+ul{
+    font-size: 30px;
+    list-style:url("https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg")
+}
